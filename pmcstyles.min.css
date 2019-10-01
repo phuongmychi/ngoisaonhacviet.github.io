@@ -220,6 +220,13 @@ video[poster] {
 		position: relative;
 		height: 0;
 	}
+	#video-id{
+	height: 100% !important; 
+    	width: 100% !important;
+    	position: absolute;
+    	top: 0;
+    	left: 0;
+	}
     	.container{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	transition: 0.3s;
