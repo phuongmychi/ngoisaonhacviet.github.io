@@ -251,6 +251,11 @@ video[poster] {
 		position: relative;
 		height: 0;
 	}
+	.col-sm-3 .img-thumbnail{
+		width:70%;
+		height:120px;
+		margin-top:10px;
+	}
 	
 	#video-id{
     	width: 100% !important;
@@ -289,9 +294,9 @@ video[poster] {
 		width: 100%;
 		     position:absolute;
 	}
-	#tit {
-		text-align: center;
-		margin-top: 5px;
+	.col-sm-3 #tit {
+		text-align: left;
+		
 	}
 	.container {
 		width: 100%;
@@ -330,9 +335,10 @@ video[poster] {
 	}
 	.img-thumbnail {
 		width: 100%
+		max-height:250px;
 	}
 	#description{
-    width:100%;
+    width:50%;
 	    
 	}
 	#endscript{
