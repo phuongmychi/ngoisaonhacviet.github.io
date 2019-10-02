@@ -17,7 +17,34 @@ body {
 	margin-top: 100px;
 	/*position:fixed;*/
 }
+.vjs-resolution-button-staticlabel{
+	color:#f5f6f7;
+  	visibility:hidden;
 
+}
+.vjs-icon-placeholder{
+	color:#f5f6f7;
+}
+.vjs-control-text{
+	color:#2fa7a7;
+}
+
+.vjs-menu-button vjs-menu-button-popup vjs-button{
+	color:#3578e5;
+}
+.vjs-resolution-button .vjs-menu-button .vjs-icon-placeholder::before {
+  font-family: VideoJS;
+  content: '\f110';
+  font-size: 1.8em;
+  line-height: 1.67;
+}
+div.vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-resolution-button{
+	color:#3c763d;
+	background-color:aliceblue;
+}
+.vjs-resolution-button{
+	color:aqua;
+}
 #demopmc{
     margin-left:20%;
     float: right;
