@@ -300,6 +300,26 @@ video[poster] {
 		margin-top:5%;
 		right:5%;
 	}
+	#myModal4{
+		position:fixed;
+		top:30%;
+		z-index:2000;
+	}
+	#myModal2{
+		position:fixed;
+		top:30%;
+		z-index:2000;
+	}
+	#myModal6{
+		position:fixed;
+		top:30%;
+		z-index:2000;
+	}
+	#myModal5{
+		position:fixed;
+		top:30%;
+		z-index:2000;
+	}
 	#video-id{
     	position: fixed;
   		top: 0;
