@@ -16,10 +16,21 @@ body {
 .navbar-fixed-bottom{
 	visibility:hidden;
 }
-
+#forms{
+	width:40%;
+	margin-left:30%;
+	position:absolute;
+	top:10%;
+}
 .search {
 	margin-top: 100px;
 	/*position:fixed;*/
+}
+.navbar-fixed-top#menu{
+	height:50px;;
+}
+ #menu{
+		margin-top:10px;
 }
 .vjs-resolution-button-staticlabel{
 	color:#f5f6f7;
@@ -263,7 +274,12 @@ video[poster] {
 		height:120px;
 		margin-top:10px;
 	}
-	
+	#forms{
+		width:60%;
+		margin-top:5px;
+		margin-left:20%;
+
+	}
 	#video-id{
     	position: fixed;
   		top: 0;
