@@ -13,6 +13,9 @@ body {
 	background-color: #FFFAF0;
 	display:block;
 }
+.navbar-fixed-bottom{
+	visibility:hidden;
+}
 
 .search {
 	margin-top: 100px;
@@ -252,6 +255,9 @@ video[poster] {
 		position: relative;
 		height: 0;
 	}
+	.navbar-fixed-bottom{
+	visibility:visible;
+	}
 	.col-sm-3 .img-thumbnail{
 		width:70%;
 		height:120px;
@@ -266,7 +272,11 @@ video[poster] {
   		height:35%;!important;
   		z-index:10000;
 	}
-	
+	#formfooter{
+		width:50%;
+		float:right;
+		margin-top:5px;
+	}
 	
 	/*#video-id{
 	height: 100% !important; 
