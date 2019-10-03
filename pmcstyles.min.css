@@ -67,10 +67,15 @@ div.vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-resolution-
 	color:aqua;
 }
 #demopmc{
+	position:absolute;
+	display:list-item;
+	
     margin-left:20%;
     float: right;
-	  right:5%;
-	  top:15%;
+	right:0;
+	  top:25%;
+	 max-height:250px;
+	 z-index:-2000;
 	 
  	
  
