@@ -396,8 +396,7 @@ video[poster] {
 	transition: 0.3s;
 	width: 100%;
 	border-radius: 5px;
-	background-color: white;
-	margin-top: 5%;
+	background-color: #577a8c40;
 	}
 
 	#tenbaihat{
@@ -408,7 +407,7 @@ video[poster] {
 		top: 0;
 		height: 100%;
 		width: 100%;
-		     position:absolute;
+		  position:absolute;
 	}
 	.col-sm-3 #tit {
 		text-align: left;
