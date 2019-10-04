@@ -88,6 +88,14 @@ div.vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-resolution-
   -webkit-animation: spin 2s linear infinite; /* Safari */
   animation: spin 2s linear infinite;
 }
+.loader1{
+box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+  left: 50%;
+  margin-left: -50px;
+
+
+}
 
 /* Safari */
 @-webkit-keyframes spin {
