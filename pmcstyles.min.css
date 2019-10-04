@@ -22,7 +22,12 @@ body {
 	position:absolute;
 	top:10%;
 }
+#btnloadmore{
+	position: absolute;
+  left: 50%;
+  margin-left: -50px;
 
+}
 
 #forms1{
 	width:35%;
