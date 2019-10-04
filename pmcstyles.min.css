@@ -330,6 +330,11 @@ video[poster] {
 	#forms1{
 		visibility:hidden;
 	}
+	#myModaltimkiem{
+		position:fixed;
+		top:33%;
+		z-index:2000;
+	}
 	.col-sm-3 .img-thumbnail{
 		width:70%;
 		height:120px;
