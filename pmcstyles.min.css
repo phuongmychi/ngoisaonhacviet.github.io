@@ -332,8 +332,7 @@ video[poster] {
 	}
 	#myModaltimkiem{
 		position:fixed;
-		top:33%;
-		z-index:2000;
+		z-index:20000;
 	}
 	.col-sm-3 .img-thumbnail{
 		width:70%;
@@ -348,12 +347,10 @@ video[poster] {
 	}
 	#lovemychi{
 		position:fixed;
-		top:30%;
 		z-index:20000;
 	}
 	#pmcmodal2{
 		position:fixed;
-		top:30%;
 		z-index:20000;
 	}
 	#resultsearch{
@@ -362,7 +359,6 @@ video[poster] {
 	}
 	#myModal4{
 		position:fixed;
-		top:30%;
 		z-index:20000;
 	}
 	#myModal2{
