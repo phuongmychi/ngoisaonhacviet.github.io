@@ -354,6 +354,10 @@ video[poster] {
 		position:fixed;
 		z-index:20000;
 	}
+	#pmcmodalads{
+		position:fixed;
+		z-index:20000;
+	}
 	#resultsearch{
 		margin-top:5%;
 		right:5%;
