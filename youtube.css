@@ -347,10 +347,23 @@ video[poster] {
 		margin-left:1%;
 
 	}
-	#lovemychi{
+	  .thumb{
+            	height: 120px;
+	    border-radius: 4px;
+        }
+        #lovemychi{
+            font-size:15px;
+        }
+        .container{
+            margin-top:5%;
+        }
+        .details{
+            width:250px;
+        }
+/* 	#lovemychi{
 		position:fixed;
 		z-index:20000;
-	}
+	} */
 	#pmcmodal2{
 		position:fixed;
 		z-index:20000;
