@@ -1,9 +1,10 @@
 /* 
-Copyright(c) 2019 Phuong My Chi Media Record LLC
-Web: https://pmc.24hgame.vn
+Copyright(c) 2019 Phuong My Chi Entertainment LLC
+Web: https://phuongmychi.github.io
 Theme URI : https://music.24hgame.vn
 Follow :
 * Facebook : https://fb.com/phuongmychi
+- Youtube : https://youtube.com/phuongmychiofficial
 
 
 */
@@ -381,7 +382,7 @@ video[poster] {
 		top:30%;
 		z-index:20000;
 	}
-	#video-id{
+	#iframe{
     	position: fixed;
   		top: 0;
   		left:0;
@@ -414,11 +415,13 @@ video[poster] {
 	    max-width:100%;
 	}
 	.video-responsive iframe {
-		left: 0;
-		top: 0;
-		height: 100%;
-		width: 100%;
-		position:absolute;
+		position: fixed;
+  		top: 0;
+  		left:0;
+  		width: 100%;!important;
+  		height:35%;!important;
+  		z-index:1000;
+  		margin-top:50px;
 	}
 	.col-sm-3 #tit {
 		text-align: left;
