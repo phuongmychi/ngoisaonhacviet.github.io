@@ -77,6 +77,16 @@ body {
 	color:#2fa7a7;
 }
 
+
+#copyrightpmc{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 50vh;
+}
+
 .vjs-menu-button vjs-menu-button-popup vjs-button{
 	color:#3578e5;
 }
