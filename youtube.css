@@ -84,7 +84,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 50vh;
+  min-height: 15vh;
 }
 
 .vjs-menu-button vjs-menu-button-popup vjs-button{
