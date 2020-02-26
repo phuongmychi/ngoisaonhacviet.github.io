@@ -13,6 +13,8 @@ body {
     
 	background-color: #FFFAF0;
 	display:block;
+		font-family:cursive;
+
 }
 .navbar-fixed-bottom{
 	visibility:hidden;
@@ -25,7 +27,11 @@ body {
 #modalsetting{
 	color:black;
 }
+#lovemychi{
+	color:#333;
+	font-family:cursive;
 
+}
 
  .thumb{
             	height: 120px;
