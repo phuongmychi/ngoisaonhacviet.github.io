@@ -20,6 +20,10 @@ body {
 .dark-mode {
   background-color: black;
   color: white;
+
+}
+#modalsetting{
+	color:black;
 }
 
 
