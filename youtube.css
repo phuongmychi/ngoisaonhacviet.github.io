@@ -1,10 +1,10 @@
 /* 
-Copyright(c) 2019 Phuong My Chi Entertainment LLC
+Copyright © 2019 Phuong My Chi Entertainment LLC
 Web: https://phuongmychi.github.io
 Theme URI : https://music.24hgame.vn
 Follow :
-* Facebook : https://fb.com/phuongmychi
-- Youtube : https://youtube.com/phuongmychiofficial
+☞ Facebook : https://fb.com/phuongmychi
+☞ Youtube : https://youtube.com/phuongmychiofficial
 
 
 */
@@ -17,7 +17,13 @@ body {
 .navbar-fixed-bottom{
 	visibility:hidden;
 }
-  .thumb{
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
+ .thumb{
             	height: 120px;
 	    border-radius: 4px;
         }
