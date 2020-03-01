@@ -16,6 +16,9 @@ body {
 	
 
 }
+.fa-search{
+	display:none;
+}
 .navbar-fixed-bottom{
 	visibility:hidden;
 }
@@ -420,6 +423,13 @@ video[poster] {
 	}
 	.navbar-fixed-bottom{
 	visibility:visible;
+	}
+	#timkiem{
+		display:none;
+	}
+	.fa-search{
+		margin-left:15px;
+		font-size:20px;
 	}
 	#forms1{
 		visibility:hidden;
