@@ -428,8 +428,12 @@ video[poster] {
 		display:none;
 	}
 	.fa-search{
+		display:block;
 		margin-left:15px;
 		font-size:20px;
+	}
+	#modaltimkiem{
+		color:black;
 	}
 	#forms1{
 		visibility:hidden;
