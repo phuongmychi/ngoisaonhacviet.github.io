@@ -16,6 +16,13 @@ body {
 	
 
 }
+a.ytp-title-link.yt-uix-sessionlink{
+	color:red;
+}
+.ytp-show-cards-title{
+	color:green;
+	background-color:aliceblue;
+}
 .fa-search{
 	display:none;
 }
@@ -420,6 +427,15 @@ video[poster] {
 		padding-bottom: 56.25%;
 		position: relative;
 		height: 0;
+	}
+	a.ytp-title-link.yt-uix-sessionlink{
+	color:green;
+    }
+    .ytp-title{
+    	color:green;
+    }
+	.video-stream html5-main-video{
+		color:green;
 	}
 	.navbar-fixed-bottom{
 	visibility:visible;
